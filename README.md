@@ -13,8 +13,9 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Full-stack+Developer;Always+Learning+New+Things;Open+Source+Enthusiast;Let's+Build+Together+%F0%9F%9A%80" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1200&color=4A90E2&center=true&vCenter=true&width=500&lines=Aspiring+Data+Analyst;Exploring+Data+Visualization+%26+Storytelling;Python+%7C+SQL+%7C+Excel+%7C+Tableau;Learning+from+Real-World+Projects;Let’s+Grow+Together+%F0%9F%8C%B1" alt="Typing Animation for Data Analyst" />
 </p>
+
 
 ---
 
@@ -28,11 +29,14 @@
 
 ---
 
-## 🧰 Tech Stack
+### 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,Excel,Tableau,Power BI,MySQL,html,css,git,github,linux," alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,react,html,css,git,github,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mysql,vscode,jupyter,pandas,numpy,excel,tableau&theme=dark" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black&style=flat-square" alt="Power BI Badge" />
 </p>
+
 
 ---
 
