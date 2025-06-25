@@ -1,4 +1,3 @@
-
 <!-- Profile Header Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Nakshatra%20Bapat&fontSize=40&fontAlignY=35&desc=Welcome%20to%20my%20GitHub%20profile!&descAlignY=60&descAlign=50" alt="Nakshatra Bapat GitHub Header Banner" />
 
@@ -9,12 +8,12 @@
 
 ## 👋 Hi, I'm Nakshatra Bapat
 
-<h3 align="center">🚀 Merging technology and analysis to build solutions that inform, engage, and empower</h3>
-
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1200&color=4A90E2&center=true&vCenter=true&width=500&lines=Aspiring+Data+Analyst;Exploring+Data+Visualization+%26+Storytelling;Python+%7C+SQL+%7C+Excel+%7C+Tableau;Learning+from+Real-World+Projects;Let’s+Grow+Together+%F0%9F%8C%B1" alt="Typing Animation for Data Analyst" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1200&color=F97516&center=true&vCenter=true&width=700&lines=Aspiring+Data+Analyst;Exploring+Data+Visualization+%26+Storytelling;Python+%7C+SQL+%7C+Excel+%7C+Tableau;Learning+from+Real-World+Projects;Let%E2%80%99s+Grow+Together+%F0%9F%8C%B1" alt="Typing Animation for Data Analyst" />
 </p>
+
+<h3 align="center">🚀 Merging technology and analysis to build solutions that inform, engage, and empower</h3>
 
 
 ---
@@ -32,9 +31,21 @@
 ### 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,react,html,css,git,github,linux&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=mysql,vscode,jupyter,pandas,numpy,excel,tableau&theme=dark" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black&style=flat-square" alt="Power BI Badge" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,react,html,css,git,github,linux,vscode,mysql&theme=dark" />
+</p>
+
+<p align="center">
+  <!-- Tailwind CSS -->
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+
+  <!-- Pandas -->
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+
+  <!-- NumPy -->
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+
+  <!-- Matplotlib -->
+  <img src="https://img.shields.io/badge/Matplotlib-2C5E91?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib" />
 </p>
 
 
@@ -47,7 +58,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nbapat03&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=nbapat03&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
@@ -77,9 +88,9 @@
 - 🚀 [Google Sheet Clone](https://github.com/nbapat03/Google-Sheet-Clone) — A fully functional **Google Sheets clone** built using **JavaScript**, featuring dynamic cell editing, formula evaluation, and multi-sheet support.  
   🔗 [Live Demo](https://clone-google-sheet.netlify.app/)
 
-- 💼 [Budget Management](https://github.com/nbapat03/budget-management) — A clean and responsive **budget management** developed using **HTML**, **CSS**, **JavaScript** with smooth scroll animations to showcase skills and key to details.<br/>
+- 💼 [Budget Management](https://github.com/nbapat03/budget-management) — A clean and responsive **budget management** developed using **HTML**, **CSS**, **JavaScript** with smooth scroll animations to showcase skills and key to details.  
   🔗 [Live Demo](https://budget-management-application.netlify.app/)
-  
+
 - 📊 [Quiz App](https://github.com/nbapat03/Quiz-Generator) — A fun and interactive **quiz app** built using **HTML**, **CSS**, and **JavaScript**, designed to test knowledge across various topics with real-time feedback.  
   🔗 [Live Demo](https://quiz-generator-application.netlify.app/)
 
