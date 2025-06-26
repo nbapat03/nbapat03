@@ -31,23 +31,25 @@
 ### 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,react,html,css,git,github,linux,vscode,mysql&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,react,html,css,git,github,linux,vscode,mysql,aws,gcp&theme=dark" />
 </p>
 
 <p align="center">
-  <!-- Tailwind CSS -->
+
+  <img src="https://img.shields.io/badge/Pandas-5A2C91?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+
+  <img src="https://img.shields.io/badge/NumPy-4D7ACD?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+
+  <img src="https://img.shields.io/badge/Matplotlib-4B8BBE?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib" />
+
+  <img src="https://img.shields.io/badge/Tableau-005B96?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
+
+  <img src="https://img.shields.io/badge/Power_BI-FFDA3E?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+
+  <img src="https://img.shields.io/badge/Microsoft_Excel-33C481?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Microsoft Excel" />
+
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-
-  <!-- Pandas -->
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-
-  <!-- NumPy -->
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-
-  <!-- Matplotlib -->
-  <img src="https://img.shields.io/badge/Matplotlib-2C5E91?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib" />
 </p>
-
 
 ---
 
@@ -105,6 +107,15 @@
   <a href="https://app.netlify.com/teams/nbapat03/projects" target="_blank">
     <img src="https://img.shields.io/badge/-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
   </a>
+</p>
+
+---
+
+<h2 align="center">🌟 <strong>Quote I live By</strong></h2>
+
+<p align="center">
+  🧠 <em>“Data is like people – interrogate it hard enough and it will tell you whatever you want to hear.”</em><br/>
+  — <em>Stephen Few</em>
 </p>
 
 ---
